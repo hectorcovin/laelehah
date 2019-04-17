@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaevaedesa.codekitchen.club/sitemap.xml
